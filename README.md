@@ -1,5 +1,5 @@
 # Ryzentosh
 
-- [ ] Ryzentosh 3 3200G 
-- [ ] AMD RX 570
-- [ ] Main A320
+- [x] Ryzentosh 3 3200G 
+- [x] AMD RX 570
+- [x] Main A320
